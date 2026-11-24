@@ -9,3 +9,4 @@ Integrantes:
 Contenido:
 - `.github/workflows/notificacion-correo.yml`: acción que envía un correo cuando se suben cambios a `main`, `feature_a` o `feature_b`.
 - `Jenkinsfile` y `scripts/build.sh`: tarea (pipeline) que se ejecuta en Jenkins.
+Cambio para el video
